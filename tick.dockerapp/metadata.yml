@@ -1,0 +1,10 @@
+# Version of the application
+version: 0.1.0
+# Name of the application
+name: tick
+# A short description of the application
+description: TICK sample app for End Sem project
+# List of application maintainers with name and email for each
+maintainers:
+  - name: dhruvPatel
+    email: patel.44@iitj.ac.in

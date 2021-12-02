@@ -1,0 +1,3 @@
+ports:
+  telegraf: 8186
+  chronograf: 8888
